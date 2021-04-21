@@ -1,5 +1,5 @@
 # tourvisio-api
 
-WordPress plugin 
+API Integration - WordPress plugin 
 
 Collaboration with https://github.com/TarikHusovic
